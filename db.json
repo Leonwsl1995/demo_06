@@ -1,0 +1,26 @@
+  
+{
+  "Waypoints": [
+    {
+      "id": 1,
+      "name": "route 1",
+      "valid": true,
+      "frameid" : "frame001"
+    },
+    {
+      "id": 2,
+      "name": "route 2",
+      "valid": true,
+      "frameid" : "frame002"
+    },
+    {
+      "id": 3,
+      "name": "route 3",
+      "valid": false,
+      "frameid" : "frame003"
+    }
+  ],
+  "profile": {
+    "name": "leon"
+  }
+}
